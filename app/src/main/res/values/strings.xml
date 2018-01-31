@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string-array name="namelist"
+        >
+
+        <item>
+            Dev
+        </item>
+        <item>
+            Anjali
+        </item>
+        <item>
+            Sunil
+        </item>
+        <item>
+            Pappu
+        </item>
+        <item>
+            Praful
+        </item>
+        <item>
+            Ahana
+        </item>
+        <item>
+            Arti
+        </item>
+        <item>
+            Nvasha
+        </item>
+        <item>
+            Sugam
+        </item>
+        <item>
+            Chavi
+        </item>
+        <item>
+            Saurabh
+        </item>
+        <item>
+            Santosh
+        </item>
+        <item>
+            Aryan
+        </item>
+
+    </string-array>
+</resources>
